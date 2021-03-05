@@ -1,52 +1,52 @@
-[
- {
-   "id": 224,
-   "nome": "Susana",
-   "data_inscricao": "2005-10-07"
- },
- {
-   "id": 230,
-   "nome": "Joana",
-   "data_inscricao": "2003-08-05"
- },
- {
-   "id": 234,
-   "nome": "Carolina",
-   "data_inscricao": "2001-11-05"
- },
- {
-   "id": 237,
-   "nome": "Silvio",
-   "data_inscricao": "2017-05-12"
- },
- {
-   "id": 238,
-   "nome": "Valdir",
-   "data_inscricao": "2018-07-04"
- },
- {
-   "id": 240,
-   "nome": "Shrek Tão Distante",
-   "data_inscricao": "2021-02-01"
- },
- {
-   "id": 241,
-   "nome": "Fiona Tão Distante",
-   "data_inscricao": "2020-04-01"
- },
- {
-   "id": 242,
-   "nome": "Burro Dragão",
-   "data_inscricao": "2018-04-03"
- },
- {
-   "id": 245,
-   "nome": "Jose",
-   "data_inscricao": "2020-09-20"
- },
- {
-   "id": 249,
-   "nome": "Rubens",
-   "data_inscricao": "2019-09-27"
- }
-]
+{
+  "pessoas":[{
+    "id": 224,
+    "nome": "Susana",
+    "data_inscricao": "2005-10-07"
+  },
+  {
+    "id": 230,
+    "nome": "Joana",
+    "data_inscricao": "2003-08-05"
+  },
+  {
+    "id": 234,
+    "nome": "Carolina",
+    "data_inscricao": "2001-11-05"
+  },
+  {
+    "id": 237,
+    "nome": "Silvio",
+    "data_inscricao": "2017-05-12"
+  },
+  {
+    "id": 238,
+    "nome": "Valdir",
+    "data_inscricao": "2018-07-04"
+  },
+  {
+    "id": 240,
+    "nome": "Shrek Tão Distante",
+    "data_inscricao": "2021-02-01"
+  },
+  {
+    "id": 241,
+    "nome": "Fiona Tão Distante",
+    "data_inscricao": "2020-04-01"
+  },
+  {
+    "id": 242,
+    "nome": "Burro Dragão",
+    "data_inscricao": "2018-04-03"
+  },
+  {
+    "id": 245,
+    "nome": "Jose",
+    "data_inscricao": "2020-09-20"
+  },
+  {
+    "id": 249,
+    "nome": "Rubens",
+    "data_inscricao": "2019-09-27"
+  }]
+}
